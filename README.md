@@ -5,8 +5,6 @@
 
  > **VueTyped** contains sets of [ECMAScript](https://en.wikipedia.org/wiki/ECMAScript) / [Typescript](typescriptlang.org) [decorators](https://github.com/wycats/javascript-decorators/blob/master/README.md) that helps you write **[Vue](vuejs.org)** component easily.
 
-## UPDATED
-
 [![npm version](https://badge.fury.io/js/vue-typed.svg)](https://badge.fury.io/js/vue-typed)
 [![Build status](https://ci.appveyor.com/api/projects/status/mdilb673cxwl903q/branch/master?svg=true)](https://ci.appveyor.com/project/vue-typed/vue-typed/branch/master)
 [![Build Status](https://travis-ci.org/vue-typed/vue-typed.svg?branch=master)](https://travis-ci.org/vue-typed/vue-typed)
